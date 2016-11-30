@@ -14,9 +14,9 @@
         }
     ],
 	"support": {
-        "email": "13352019331@163.com",
+        "email": "13352019331@163.com"
     },
     "autoload": {
-       "classmap": ["src/"]
+        "classmap": ["src/"]
     }
 }
