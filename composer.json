@@ -17,6 +17,6 @@
         "email": "13352019331@163.com",
     },
     "autoload": {
-        "psr-4": { "": "src/" }
+       "classmap": ["src/"]
     }
 }
