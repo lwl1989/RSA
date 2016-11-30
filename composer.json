@@ -1,0 +1,22 @@
+{
+	"name": "lwl1989/RSA",
+	"description": "A sample RSA encrypt library",
+    "type": "library",
+	"keywords":["rsa","encrypt"],
+	"time":"2016-11-30",
+	"license":"MIT",
+	"authors": [
+        {
+            "name": "Fresh Li",
+            "email": "13352019331@163.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+	"support": {
+        "email": "13352019331@163.com",
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
